@@ -1,0 +1,372 @@
+@media only screen and (min-width:768px) and (max-width:991px) { 
+.patients {
+	max-width:100%;
+}
+.header-row2 a.nav-link {
+	font-size:12px;
+}
+.navbar-expand-sm .navbar-nav .nav-link {
+	padding-left:0px;
+}
+.header-row4 {
+	width:700px;
+}
+.carousel-text h1 {
+	font-size:35px;
+}
+.carousel-text p{
+	font-size:16px;
+}
+.carousel-text {
+	width:50%;
+}
+.carousel-text {
+	padding-top:50px;
+}
+.carousel-item > img {
+	width:21rem;
+}
+.carousel-item {
+	height:23rem;
+}
+.equipments-image img {
+	width:100%;
+}
+.topbar-left h6 {
+    font-size: 14px;
+} 
+.row4-right {
+	padding-left:0px;
+}
+.row4-left .col-md-3 {
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+.row4-left .col-md-9 {
+    flex: 0 0 80%;
+    max-width: 80%;
+}
+.row4-right .col-md-3 {
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+.row4-right .col-md-9 {
+    flex: 0 0 80%;
+    max-width: 80%;
+}
+.row4-btn a {
+	font-size:12px;
+}
+.equipments-btn a {
+	    padding: 10px 15px;
+		font-size:16px;
+}
+}
+
+@media only screen and (min-width:577px) and (max-width:767px) {
+
+.header-row2 a.nav-link {
+	font-size:12px;
+}
+.navbar-expand-sm .navbar-nav .nav-link {
+	padding-left:0px;
+}
+.carousel-text h1 {
+	font-size:35px;
+}
+.carousel-text p{
+	font-size:16px;
+}
+.carousel-text {
+	width:50%;
+}
+.carousel-text {
+	padding-top:50px;
+}
+.carousel-item > img {
+	width:21rem;
+}
+.carousel-item {
+	height:23rem;
+}
+.header-row4 {
+	padding: 26px 10px;
+}
+.header-row4 {
+	width:500px;
+} 
+.row4-left .col-md-3 {
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+.row4-left .col-md-9 {
+    flex: 0 0 80%;
+    max-width: 80%;
+}
+.row4-right .col-md-3 {
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+.row4-right .col-md-9 {
+    flex: 0 0 80%;
+    max-width: 80%;
+}
+.row4-btn a {
+	font-size:12px;
+}
+.mf-auto {
+    margin-left: inherit;
+}
+.header-topbar .col-md-6{
+	flex: 0 0 50%;
+	max-width:50%;
+}
+.container, .container-sm {
+	max-width:inherit;
+}
+.topbar-left h6 {
+	font-size:13px;
+}
+.gallery-section {
+	display:none;
+}
+.footer-row1 .col-md-3 {
+	max-width:50%;
+}
+.patients {
+	width:500px;
+}
+.patients-image img {
+	width:auto;
+}
+}
+
+@media only screen and (min-width:480px) and (max-width:576px) { 
+.patients {
+	width:100%;
+}
+.header-row4 {
+	width:450px;
+}
+.equipments-image img {
+	width:100%;
+}
+.topbar-left h6 {
+	font-size:13px;
+}
+.navbar-toggler {
+	border:1px solid #38dbae;
+}
+.carousel-text {
+	padding-top:50px;
+	width:100%;
+}
+.carousel-btn a {
+	font-size:	14px;
+}
+.carousel-text h4 {
+	font-size:20px;
+}
+.carousel-text h1 {
+	font-size:35px;
+}
+p {
+	font-size:14px;
+}
+.carousel-text p {
+	font-size:14px;
+}
+.carousel-item {
+	height:25rem;
+}
+.carousel-item > img {
+		height:13rem;
+}
+.header-row4 {
+	padding: 26px 10px;
+}
+.row4-left .col-md-3 {
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+.row4-left .col-md-9 {
+    flex: 0 0 80%;
+    max-width: 80%;
+}
+.row4-right .col-md-3 {
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+.row4-right .col-md-9 {
+    flex: 0 0 80%;
+    max-width: 80%;
+}
+.row4-btn a {
+	font-size:12px;
+}
+.gallery-section {
+	display:none;
+}
+.equipments-btn {
+	text-align:center;
+}
+.equipments-right h2 {
+	text-align:center;
+}
+.equipments-btn a {
+	padding: 10px 14px;
+	font-size:14px;
+}
+.fo-row1 .col-md-3 {
+    flex: 0 0 20%;
+    max-width: 20% !important;
+}
+.fo-row1 .col-md-9 {
+    flex: 0 0 80%;
+    max-width: 80%;
+}
+.patients-list .col-md-3 {
+    flex: 0 0 30%;
+    max-width: 30%;
+}
+.patients-list .col-md-9 {
+    flex: 0 0 70%;
+    max-width: 70%;
+}
+.patients-list p {
+	width:100%;
+}
+.patients-list-content {
+	padding-top:0px;
+}
+.patients-image {
+	padding-top:10px;
+}
+.content p {
+	line-height:10px;
+}
+.footer-row1 img {
+	width:40%;
+}
+.footer-row1 .col-md-3 {
+	max-width:50%;
+}
+.footer-phone {
+    width: 100% !important;
+}
+.header-topbar-right {
+    float: left;
+}
+}
+
+@media only screen and (max-width:479px) { 
+.patients {
+	width:100%;
+}
+.header-row4 {
+	width:100%;
+}
+.equipments-image img {
+	width:100%;
+}
+.topbar-left h6 {
+	font-size:13px;
+}
+.navbar-toggler {
+	border:1px solid #38dbae;
+}
+.carousel-text {
+	padding-top:50px;
+	width:100%;
+}
+.carousel-btn a {
+	font-size:	14px;
+}
+.carousel-text h4 {
+	font-size:20px;
+}
+.carousel-text h1 {
+	font-size:35px;
+}
+p {
+	font-size:14px;
+}
+.carousel-text p {
+	font-size:14px;
+}
+.carousel-item {
+	height:25rem;
+}
+.carousel-item > img {
+		height:9rem;
+}
+.header-row4 {
+	padding: 26px 10px;
+}
+.row4-left .col-md-3 {
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+.row4-left .col-md-9 {
+    flex: 0 0 80%;
+    max-width: 80%;
+}
+.row4-right .col-md-3 {
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+.row4-right .col-md-9 {
+    flex: 0 0 80%;
+    max-width: 80%;
+}
+.row4-btn a {
+	font-size:12px;
+}
+.gallery-section {
+	display:none;
+}
+.equipments-btn {
+	text-align:center;
+}
+.equipments-right h2 {
+	text-align:center;
+}
+.equipments-btn a {
+	padding: 10px 14px;
+	font-size:14px;
+}
+.footer-phone {
+	width:100% !important;
+}
+.fo-row1 .col-md-3 {
+    flex: 0 0 20%;
+    max-width: 20%;
+}
+.fo-row1 .col-md-9 {
+    flex: 0 0 80%;
+    max-width: 80%;
+}
+.patients-list .col-md-3 {
+    flex: 0 0 30%;
+    max-width: 30%;
+}
+.patients-list .col-md-9 {
+    flex: 0 0 70%;
+    max-width: 70%;
+}
+.patients-list p {
+	width:100%;
+}
+.patients-list-content {
+	padding-top:0px;
+}
+.patients-image {
+	padding-top:10px;
+}
+.content p {
+	line-height:10px;
+}
+.header-topbar-right {
+    float: left;
+}
+}
